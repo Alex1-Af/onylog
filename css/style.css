@@ -120,6 +120,10 @@ body {
 	margin: 8px;
 }
 /*-------------------------------------*/
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
 
 /*-------------------------------------*/
 /*Remove chrome Input Fields Unwanted Yellow Background Color*/
